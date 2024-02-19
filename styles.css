@@ -1,0 +1,9 @@
+table {
+    width: 100%; /* Define a largura da tabela como 100% da largura do contêiner pai */
+    border-collapse: collapse; /* Mescla as bordas das células */
+}
+th, td {
+    padding: 10px; /* Adiciona um espaçamento interno de 8 pixels nas células */
+    text-align: left; /* Alinha o texto à esquerda dentro das células */
+    border: 1px solid black; /* Adiciona uma borda de 1 pixel sólido preto em todas as células */
+}
